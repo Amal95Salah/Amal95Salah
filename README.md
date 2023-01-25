@@ -38,5 +38,16 @@ Here are some ideas to get you started:
 </p>
 
     
+## My Profile in Numbers: 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amal95salah&show_icons=true&count_private=true&theme=dark&hide_border=true" />
+</a>
 
+<a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=amal95salah&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"></a>
+
+<a href="https://github.com/amal95salah/github-readme-activity-graph"><img alt="amal95salah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amal95salah&hide_border=true&theme=react-dark" /></a>
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal95salah&layout=compact&hide=CSS,html&langs_count=3&theme=dark"/>
+</a>
 
